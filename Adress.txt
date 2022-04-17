@@ -5,3 +5,11 @@ xmrig.exe -a rx/xmr -o stratum+tcp://gulf.moneroocean.stream:10128 -u 4DSQMNzzq4
 
 
 xmrig.exe -a rx/xmr -o stratum+tcp://gulf.moneroocean.stream:10128 -u 4DSQMNzzq46N1z2pZWAVdeA6JvUL9TCB2bnBiA3ZzoqEdYJnMydt5akCa3vtmapeDsbVKGPFdNkzqTcJS8M8oyK7WGix23ej7VnECTxHGh -p x --donate-level 1 -t 1
+
+seelsurf 
+
+https://github.com/feelingsurf/viewer/releases/download/1.8.5/FeelingSurfViewer-win-x64-1.8.5.zip
+
+4b15940a7613689c51abc6198e22d00d
+
+
