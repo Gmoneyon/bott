@@ -47,4 +47,8 @@ Qf: https://gmoneywin.blogspot.com/
 Qf: https://gamesfree40k.blogspot.com/
 
 Qf: https://50superpapinhas.blogspot.com/
+
+links: https://docs.microsoft.com/vi-vn/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine
+
+links: https://azure.microsoft.com/pt-br/free/students/?cdn=disable
 .#
