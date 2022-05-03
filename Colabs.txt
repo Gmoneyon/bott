@@ -82,4 +82,5 @@ print(f'Root password: {password}')
 
 2. Ngrok:
 
-1. "27aFdQVVsky4Slz60bTlzwu1LIx_75c8kSW524PkBXbqnigum
+1. "27aFdQVVsky4Slz60bTlzwu1LIx_75c8kSW524PkBXbqnigum"
+
